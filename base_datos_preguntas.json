@@ -1,0 +1,26 @@
+[
+    {
+        "categoria": "Nivel 1",
+        "pregunta" :"¿cual es la capital de colombia?",
+        "respuesta" : "Bogota",
+        "incorrecta1":"Medellin",
+        "incorrecta2":"Barranquilla",
+        "incorrecta3":"Cali"
+    },
+    {
+        "categoria": "Nivel 1",
+        "pregunta" :"¿cual es el pais mas extenso del mundo?",
+        "respuesta" : "Rusia",
+        "incorrecta1":"China",
+        "incorrecta2":"EEUU",
+        "incorrecta3":"Brasil"
+    },
+    {
+        "categoria": "Nivel 1",
+        "pregunta" :"¿de que pais es Shakira?",
+        "respuesta" : "Colombia",
+        "incorrecta1":"España",
+        "incorrecta2":"Chile",
+        "incorrecta3":"Barranquilla"
+    }
+]
