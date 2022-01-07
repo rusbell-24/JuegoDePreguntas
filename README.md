@@ -10,3 +10,5 @@ En este repositorio se encuentra:
 •	un diagrama de flujos que representa el comportamiento que se espera del juego.
 •	Un diagrama de entidad relación, referente a la base de datos en postgreSQL
 •	Y en la carpeta Implementación-Proyecto se encuentra el desarrollo del mismo. 
+•       Aicionalmente se agregan dos libros de excel donde se encuentra la informacion 
+        de las tablas de Pregunta y de Respuesta con que se construyo la base de datos para el juego.
