@@ -1,0 +1,5 @@
+<div>
+    <ul *ngFor="let res of respuestas" >
+        <li class="respuestas" (click)="verificarRespuesta( res.Id )">{{ res.Respuesta }}</li>
+    </ul>
+</div>

@@ -1,0 +1,14 @@
+li {
+    cursor: pointer;
+}
+
+.respuestas {
+    border-radius: 15px;
+    background-color: bisque;
+    padding: 5px;
+}
+
+.respuestas:hover {
+    background-color: rgb(51, 51, 163);
+    color: khaki;
+}

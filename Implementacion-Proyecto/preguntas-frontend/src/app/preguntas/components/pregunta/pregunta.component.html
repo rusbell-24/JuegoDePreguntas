@@ -1,0 +1,5 @@
+<h1>Preguntas - Ronda: {{ronda}}</h1>
+<div>
+    <p>{{ preguntaEnJuego}}</p>
+    <app-respuestas (eventPreguntaCorrecta)="cambiarPregunta( $event )"  (eventPreguntaIncorrecta)="reiniciarJuego( $event )" [idPregunta]="idPregunta" ></app-respuestas>
+</div>
